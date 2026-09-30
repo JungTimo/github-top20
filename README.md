@@ -18,7 +18,7 @@ the top 20 project on github
 | 12 | [superpowers](https://github.com/obra/superpowers) | 293k | AI 编程智能体技能框架 |
 | 13 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 285k | 项目驱动式编程教程合集 |
 | 14 | [996.ICU](https://github.com/996icu/996.ICU) | 277k | 反 996 加班项目 |
-| 15 | skills | 272k | AI 编程技能集（GitHub 搜 "skills"） |
+| 15 | skills (https://github.com/mattpocock/skills) | 272k | AI 编程技能集（GitHub 搜 "skills"） |
 | 16 | ECC | 269k | AI 智能体优化系统（GitHub 搜 "ECC"） |
 | 17 | [react](https://github.com/facebook/react) | 250k | Meta 出品的前端框架 |
 | 18 | [linux](https://github.com/torvalds/linux) | 250k | Linux 内核源码 |
