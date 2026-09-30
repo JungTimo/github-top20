@@ -19,8 +19,8 @@ the top 20 project on github
 | 13 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 285k | 项目驱动式编程教程合集 |
 | 14 | [996.ICU](https://github.com/996icu/996.ICU) | 277k | 反 996 加班项目 |
 | 15 | skills (https://github.com/mattpocock/skills) | 272k | AI 编程技能集（GitHub 搜 "skills"） |
-| 16 | ECC | 269k | AI 智能体优化系统（GitHub 搜 "ECC"） |
+| 16 | ECC (https://github.com/affaan-m/ECC)| 269k | AI 智能体优化系统（GitHub 搜 "ECC"） |
 | 17 | [react](https://github.com/facebook/react) | 250k | Meta 出品的前端框架 |
 | 18 | [linux](https://github.com/torvalds/linux) | 250k | Linux 内核源码 |
-| 19 | hermes-agent | 250k | AI 智能体框架（GitHub 搜 "hermes-agent"） |
+| 19 | hermes-agent (https://github.com/NousResearch/hermes-agent)| 250k | AI 智能体框架（GitHub 搜 "hermes-agent"） |
 | 20 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 246k | 极客秘籍/速查表/小工具合集 |
